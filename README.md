@@ -1,7 +1,7 @@
 <!-- GitHub Stats + Most Used Languages (Side by Side) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayubadevs&show_icons=true&theme=radical" alt="GitHub stats" height="142"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubadevs&layout=compact&theme=radical" alt="Top Languages" height="390"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubadevs&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </p>
 
 
@@ -20,15 +20,15 @@
 - 💬 Ask me about **Python, JavaScript, Flutter**
 - 📫 How to reach me: **your-email@example.com**
 - ⚡ Fun fact: *I debug with coffee ☕*
--->
 ---
-
 ### 🛠️ Languages and Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flutter,dart,git,github,vscode" />
 </p>
 
 ---
+-->
+
 
 ---
 
