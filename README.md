@@ -29,7 +29,11 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayubaisiaka&color=blue" alt="Profile Views" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/github/followers/ayubaisiaka?label=Followers" alt="Followers" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/github/stars/ayubaisiaka?label=Stars" alt="Total Stars" />
 </p>
 
@@ -46,7 +50,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flutter,dart,git,github,vscode" />
 </p>
 
@@ -55,6 +59,8 @@
 ### 📈 My GitHub History!
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayubaisiaka&theme=radical" />
+</p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayubaisiaka&theme=radical" />
 </p>
 
