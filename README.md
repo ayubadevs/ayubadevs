@@ -13,11 +13,11 @@
   <img src="https://streak-stats.demolab.com?user=ayubadevs&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Activity Graph -->
+<!-- Activity Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayubadevs&theme=dracula" alt="Activity Graph" />
 </p>
-
+-->
 ---
 
 <!-- Badges -->
