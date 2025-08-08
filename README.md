@@ -1,34 +1,15 @@
-<!-- GitHub Stats -->
+<!-- GitHub Stats + Most Used Languages (Side by Side) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayubadevs&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayubadevs&show_icons=true&theme=radical" alt="GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubadevs&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </p>
 
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubadevs&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayubadevs&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
- -->
- 
-<!-- Activity Graph 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayubadevs&theme=dracula" alt="Activity Graph" />
-</p>
--->
 ---
 
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayubadevs&color=blue" alt="Profile Views" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/github/followers/ayubadevs?label=Followers" alt="Followers" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/github/stars/ayubadevs?label=Stars" alt="Total Stars" />
 </p>
 
@@ -54,8 +35,6 @@
 ### 📈 My GitHub History!
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayubadevs&theme=radical" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayubadevs&theme=radical" />
 </p>
 
