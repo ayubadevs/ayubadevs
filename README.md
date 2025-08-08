@@ -58,10 +58,10 @@
 
 ### 📈 My GitHub History!
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayubaisiaka&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayubadevs&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayubaisiaka&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayubades&theme=radical" />
 </p>
 
 ---
