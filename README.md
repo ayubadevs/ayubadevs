@@ -4,25 +4,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubadevs&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </p>
 
----
 
-<!-- Badges -->
+<!-- Badges
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayubadevs&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ayubadevs?label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/ayubadevs?label=Stars" alt="Total Stars" />
 </p>
+ -->
 
----
-
-<!-- About Me -->
+<!-- About Me 
 ### 🧑‍💻 About Me
 - 🔭 I’m currently working on **cool projects**
 - 🌱 I’m currently learning **Flutter & Backend Development**
 - 💬 Ask me about **Python, JavaScript, Flutter**
 - 📫 How to reach me: **your-email@example.com**
 - ⚡ Fun fact: *I debug with coffee ☕*
-
+-->
 ---
 
 ### 🛠️ Languages and Tools:
@@ -31,12 +29,6 @@
 </p>
 
 ---
-
-### 📈 My GitHub History!
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayubadevs&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayubadevs&theme=radical" />
-</p>
 
 ---
 
