@@ -6,35 +6,35 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayubaisiaka&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayubadevs&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubaisiaka&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubadevs&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayubaisiaka&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ayubadevs&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayubaisiaka&theme=dracula" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayubadevs&theme=dracula" alt="Activity Graph" />
 </p>
 
 ---
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayubaisiaka&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ayubadevs&color=blue" alt="Profile Views" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ayubaisiaka?label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/ayubadevs?label=Followers" alt="Followers" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ayubaisiaka?label=Stars" alt="Total Stars" />
+  <img src="https://img.shields.io/github/stars/ayubadevs?label=Stars" alt="Total Stars" />
 </p>
 
 ---
