@@ -1,7 +1,7 @@
 <!-- GitHub Stats + Most Used Languages (Side by Side) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayubadevs&show_icons=true&theme=radical" alt="GitHub stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubadevs&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayubadevs&show_icons=true&theme=radical" alt="GitHub stats" height="142"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubadevs&layout=compact&theme=radical" alt="Top Languages" height="390"/>
 </p>
 
 
