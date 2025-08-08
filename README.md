@@ -8,11 +8,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayubadevs&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ayubadevs&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
+ -->
+ 
 <!-- Activity Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayubadevs&theme=dracula" alt="Activity Graph" />
