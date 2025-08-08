@@ -1,9 +1,3 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Ayuba Isiaka</h1>
-<h3 align="center">A passionate developer from Nigeria</h3>
-
----
-
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayubadevs&show_icons=true&theme=radical" alt="GitHub stats" />
